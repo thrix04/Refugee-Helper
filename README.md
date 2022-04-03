@@ -10,6 +10,7 @@ This website tries to provide all the necessary online tools for the refugees.
 # Real-time location map of the conflict.
 # Currency Exchange rates.
 ![image](https://user-images.githubusercontent.com/41500905/161425917-d9f3dab5-3049-4319-ac6d-780d2d0098c0.png)
+![image](https://user-images.githubusercontent.com/41500905/161426242-99461e0c-1b94-40b9-9723-aa447104b625.png)
 
 
 # Courses to Upskill.
